@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "created_at": "0",
-  "passkey_hash": "r2kYMtTodRyI9qCCFmFOTK0tK8QbXBgX0eoNWAxT4iM=",
-  "passkey_salt": "g2FlYRof4L3sk7GryGYtdA==",
-  "super_password_hash": "VSN18kN9Bkeg3mCF0lhlDGMOJo9IIRiF0sQirEA5L7k=",
-  "super_password_salt": "kCEuWEI3vyFwOyhfN2ylZQ=="
+  "passkey_hash": "Sl7K7NwO6bPN3ImpkHZRz7vQrFartV5NyCeTNX9i4Y0=",
+  "passkey_salt": "aW1ALrOwgrw5HDO9eDxMVw==",
+  "super_password_hash": "jyrVs6UrsCEQ9H2qZn5q0hoSTXQ2Hxx10OptvdEnP70=",
+  "super_password_salt": "UXxQ7SrbYtePpqYHjNsyxg=="
 }
